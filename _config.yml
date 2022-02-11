@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: AI4ABM: AI for Agent-Based Modelling Community # the website title (if blank, full name will be used instead)
+title: AI for Agent-Based Modelling (AI4ABM) Community # the website title (if blank, full name will be used instead)
 first_name: AI4ABM
 middle_name:
 last_name: AI for Agent-Based Modelling
@@ -84,7 +84,7 @@ panelbear_analytics:  # panelbear analytics site ID (format: XXXXXXXXX)
 # -----------------------------------------------------------------------------
 
 blog_name:   # your blog must have a name for it to show up in the nav bar
-blog_description: a simple whitespace theme for academics
+blog_description: A blog with updates from the AI4ABM community
 permalink: /blog/:year/:title/
 
 # Pagination
@@ -109,7 +109,7 @@ collections:
     output: true
     permalink: /projects/:path/
 
-news_limit: 0
+news_limit: 3
 
 # -----------------------------------------------------------------------------
 # Jekyll settings

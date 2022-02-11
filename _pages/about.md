@@ -2,23 +2,47 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: 
 
 profile:
   align: right
-  image: prof_pic.jpg
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  image: 
+  address: 
 
 news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Agent-Based Modelling (ABM) has seen increasing interest across various disciplines, ranging from economics and 
+epidemiology to cybersecurity, social sciences, and climate policy. 
+At the same time, recent progress in AI has yielded exciting new approaches to learning, calibrating, and analysing 
+such models, including deep multi-agent learning and simulation-based inference. 
+This interdisciplinary community is meant to bring together practitioners and theorists to boost ABM method 
+development in AI, and stimulate novel applications across disciplinary boundaries.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+As part of the AI4ABM community, [Prof. Jakob Foerster’s lab](https://www.jakobfoerster.com/) and 
+[Prof. Ani Calinescu’s lab](https://www.cs.ox.ac.uk/people/ani.calinescu/) are jointly starting a new 
+interdisciplinary reading group on AI for Agent-Based Modelling. This Reading Group takes place on Thursdays at 
+4:00-5:30pm GMT in LR-7, IEB, Department of Engineering Science, University of Oxford (UK). While we encourage in-person
+attendance, we also facilitate remote participation via video call. If you wish to attend this Reading Group and 
+become a member of the AI4ABM community, please subscribe to the 
+[AI4ABM mailing list](mailto:ai4abm-subscribe@maillist.ox.ac.uk). 
+If you encounter any issues, please contact [us](mailto:cs@robots.ox.ac.uk).
+We welcome anyone to attend and present!
+
+If you would like to present at a future session, please let [us](mailto:cs@robots.ox.ac.uk) know the date and 
+title of your presentation.
+
+We are looking forward to meeting you :)
+
+Best wishes,
+
+Dr. Christian Schroeder de Witt  
+
+Postdoctoral Research Assistant  
+Foerster AI Research  
+University of Oxford, UK  
+[Google Scholar](https://scholar.google.co.uk/citations?user=DE60h_0AAAAJ&hl=en&oi=ao)
+
